@@ -1,0 +1,18 @@
+{
+  "name": "test-cats",
+  "version": "1.0.0",
+  "description": "A responsive web layout for a black cats gallery, based on a provided design.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.29.0",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-plugin-prettier": "^5.5.0",
+    "prettier": "^3.5.3"
+  }
+}
